@@ -1,9 +1,8 @@
-Ruby implements or iRail API (http://project.irail.be/wiki/API/APIv1)
+Ruby implementation for the iRail API (http://project.irail.be/wiki/API/APIv1)
 
 Stations
 --------
 > stations = Irail::Station.all
-
 Returns list of stations.
 
 
