@@ -30,7 +30,7 @@ See API documentation for details.
 
 Vehicle
 -------
-> vehicle = Iral::Vehicle::Vehicle.find('BE.NMBS.IC1843')
+> vehicle = Irail::Vehicle::Vehicle.find('BE.NMBS.IC1843')
 Returns vehicule info with stops.
 See API documentation for details.
 
